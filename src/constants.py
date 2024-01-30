@@ -7,10 +7,6 @@ from pathlib import Path
 # Paths
 REPO_PATH = Path(__file__).parents[1]
 
-SMILES_PATH = REPO_PATH / "Gaurav-SMILES-Data-POC"
-
-SAVE_PATH = REPO_PATH / "processed_data"
-
 # Functional group dictionary
 func_group_dict = {
     "carb_acid": rcf.fr_COO2,
