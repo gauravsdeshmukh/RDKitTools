@@ -1,3 +1,4 @@
-# FuncGroupDetector
+# RDKitTools
 
-A tool to detect functional groups in molecules.
+This is a open-source suite of tools employing RDKit for various cheminformatics
+applications. 
